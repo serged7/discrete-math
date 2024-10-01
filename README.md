@@ -1,2 +1,2 @@
-# discrete_math
+# discrete-math
 Computational and numerical experiments in discrete dynamical systems
